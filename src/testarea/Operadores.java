@@ -19,12 +19,17 @@ public static void main (String[] args){
 
 
 
+    //true e false
     int a, b;
     a = 5;
     b = 6;
-    //true e false
     String resultado = a == b ? "verdadeiro" : "falso";
     System.out.println(resultado);
+
+    //comparar strings e OBJETOS
+    String nomeUm = "GLEYSON";
+    String nomeDois = new String("GLEYSON");
+    System.out.println(nomeUm.equals(nomeDois));
 
 }
 
