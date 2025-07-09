@@ -1,6 +1,9 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome to my java testing space. It is made to remember basic stuff.
+
+to start, enter scr and then use
+$ javac chaptertwo/EstruturasControle.java
 
 ## Folder Structure
 
